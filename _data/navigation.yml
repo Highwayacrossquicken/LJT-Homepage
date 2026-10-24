@@ -1,4 +1,7 @@
-# Header navigation only; the home page and publication archive contain the profile.
+# Homepage and Publications links in the header.
 main:
+  - title: "About"
+    url: /#about
+
   - title: "Publications"
     url: /publications/
