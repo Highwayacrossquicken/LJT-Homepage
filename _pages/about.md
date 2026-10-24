@@ -12,6 +12,7 @@ I am a first-year PhD candidate in Computer Science at the HKUST NLP Group. My r
 
 - **2024–present:** Ph.D. in Computer Science, Hong Kong University of Science and Technology.
 - **2020–2024:** B.Eng., Shanghai Jiao Tong University; graduated in June 2024.
+- **Academic award:** Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 ## Research experience
 
