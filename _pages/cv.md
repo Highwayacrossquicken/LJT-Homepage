@@ -14,6 +14,7 @@ Education
 
 - **2024–present:** Ph.D. in Computer Science, Hong Kong University of Science and Technology.
 - **2020–2024:** B.Eng., Shanghai Jiao Tong University (graduated June 2024).
+- **Academic award:** Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 Research experience
 =================
