@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models'
 collection: publications
 category: conferences
-permalink: /publication/2025-06-08-paper-title-number-5
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/c-eval/
+year: 2023
+venue: 'NeurIPS (2023)'
+citation: 'Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Su, Yao Fu, Maosong Sun, Junxian He. (2023). C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models. NeurIPS.'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Co-authored publication.
