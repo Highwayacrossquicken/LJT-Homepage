@@ -6,7 +6,7 @@ author_profile: true
 
 # Junteng Liu
 
-I am a first-year PhD candidate in Computer Science at the [HKUST NLP Group](https://www.hkust.edu.hk/). My research focuses on natural language processing and machine learning. I am particularly interested in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+I am a first-year PhD candidate in Computer Science at the HKUST NLP Group. My research focuses on natural language processing and machine learning. I am particularly interested in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
 ## Education
 
@@ -28,18 +28,18 @@ I am a first-year PhD candidate in Computer Science at the [HKUST NLP Group](htt
 
 ## Publications
 
-2025
-:  
+### 2025
+
 - [*SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*]({{ "/publication/synlogic/" | relative_url }}) — arXiv preprint (first author).
 - [*On the Perception Bottleneck of VLMs for Chart Understanding*]({{ "/publication/perception-bottleneck/" | relative_url }}) — arXiv preprint (first author).
 
-2024
-:  
+### 2024
+
 - [*On the Universal Truthfulness Hyperplane Inside LLMs*]({{ "/publication/truthfulness-hyperplane/" | relative_url }}) — EMNLP (first author).
 - [*In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*]({{ "/publication/in-context-sharpness/" | relative_url }}) — ICML (co-author).
 
-2023
-:  
+### 2023
+
 - [*C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models*]({{ "/publication/c-eval/" | relative_url }}) — NeurIPS (co-author).
 - [*Composing Parameter-Efficient Modules with Arithmetic Operations*]({{ "/publication/composing-modules/" | relative_url }}) — NeurIPS (co-author).
 
